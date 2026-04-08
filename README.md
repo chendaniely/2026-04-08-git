@@ -19,3 +19,5 @@
 1. create fork
 2. clone into computer
 3. do normal git things with branches
+
+Hello from San Francisco!
