@@ -9,3 +9,7 @@
 - `HEAD`: tells you where you are
 - `push <WHERE> <WHAT>`: takes current git history on local branch (<WHAT>) and send it to the remote `<WHERE>`
 - `pull <WHERE> <WHAT>`: updates your local computer with the remote
+
+- `switch <BRANCH>`: switch to a branch <BRANCH>
+    - `switch -c <BRANCH>`: move AND create a new branch <BRANCH>
+- `log --oneline --graph --all`: show you all the commit history
