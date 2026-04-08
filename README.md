@@ -13,3 +13,11 @@
 - `switch <BRANCH>`: switch to a branch <BRANCH>
     - `switch -c <BRANCH>`: move AND create a new branch <BRANCH>
 - `log --oneline --graph --all`: show you all the commit history
+
+## Forks
+
+1. create fork
+2. clone into computer
+3. do normal git things with branches
+
+Hello from San Francisco!
